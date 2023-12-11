@@ -1,1 +1,2 @@
 write in index.txt
+changes after reseting commit
