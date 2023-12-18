@@ -1,0 +1,3 @@
+Functional Interface
+
+Pedicate<T> -> This Interface has an abstract method test(T t) which return boolean value based on prediction.
