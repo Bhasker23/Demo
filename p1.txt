@@ -3,3 +3,5 @@ Functional Interface
 Pedicate<T> -> This Functional Interface has an abstract method test(T t) which return boolean value based on prediction.
 
 Consumer<T> -> This Functional Interface has one abstract method accept(T t), which does not return anything but it prodces a result.
+
+Supplier<T> -> This Functional Interface has one abstract method named get(), which does not take any argument and produces a result. 
